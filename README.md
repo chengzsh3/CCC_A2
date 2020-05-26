@@ -18,6 +18,11 @@ https://youtu.be/RW0KPW1tAsA
 
 xxx
 
+### twitter Crawler and couchdb storage
+
+https://youtu.be/RO6MgSHakPo
+
+
 ### PPT
 
 xxx
